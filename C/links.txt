@@ -1,0 +1,6 @@
+1.  https://github.com/JeannieFallon/c-programming-with-linux
+2.  https://github.com/Horckun/Ejercicios-programacion-C
+3.  https://github.com/PacktPublishing/Learn-C-Programming
+4.  https://github.com/abhayanigam/Learn_C
+5.  https://github.com/TheAlgorithms/C
+
