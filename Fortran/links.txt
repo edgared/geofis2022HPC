@@ -1,1 +1,2 @@
-https://fortran-lang.org/learn/quickstart
+1.  https://fortran-lang.org/learn/quickstart
+2.  https://github.com/scivision/fortran2018-examples
