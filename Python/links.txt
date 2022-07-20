@@ -1,0 +1,7 @@
+https://github.com/jerry-git/learn-python3
+https://github.com/AeroPython/Curso_AeroPython
+https://github.com/trekhleb/learn-python
+https://github.com/TheAlgorithms/Python
+https://github.com/zhiwehu/Python-programming-exercises
+https://github.com/MTrajK/coding-problems
+https://programmingwithmosh.com/python/python-3-cheat-sheet/
