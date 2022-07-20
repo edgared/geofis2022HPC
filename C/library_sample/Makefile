@@ -32,6 +32,6 @@ libmy_shared.o: libmy_shared.c
 	gcc -c -fPIC libmy_shared.c -o libmy_shared.o
 
 
-#.PHONY: clean
+.PHONY: clean
 clean:
 	rm *.o *.a *.so my_app
